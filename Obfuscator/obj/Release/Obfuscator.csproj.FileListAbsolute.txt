@@ -1,0 +1,10 @@
+C:\Users\soetag1\OneDrive - Orange County Supervisor of Elections\Desktop\Obfuscator\Obfuscator\bin\Release\Obfuscator.exe.config
+C:\Users\soetag1\OneDrive - Orange County Supervisor of Elections\Desktop\Obfuscator\Obfuscator\bin\Release\Obfuscator.exe
+C:\Users\soetag1\OneDrive - Orange County Supervisor of Elections\Desktop\Obfuscator\Obfuscator\bin\Release\Obfuscator.pdb
+C:\Users\soetag1\OneDrive - Orange County Supervisor of Elections\Desktop\Obfuscator\Obfuscator\obj\Release\Obfuscator.csproj.AssemblyReference.cache
+C:\Users\soetag1\OneDrive - Orange County Supervisor of Elections\Desktop\Obfuscator\Obfuscator\obj\Release\Obfuscator.Form1.resources
+C:\Users\soetag1\OneDrive - Orange County Supervisor of Elections\Desktop\Obfuscator\Obfuscator\obj\Release\Obfuscator.Properties.Resources.resources
+C:\Users\soetag1\OneDrive - Orange County Supervisor of Elections\Desktop\Obfuscator\Obfuscator\obj\Release\Obfuscator.csproj.GenerateResource.cache
+C:\Users\soetag1\OneDrive - Orange County Supervisor of Elections\Desktop\Obfuscator\Obfuscator\obj\Release\Obfuscator.csproj.CoreCompileInputs.cache
+C:\Users\soetag1\OneDrive - Orange County Supervisor of Elections\Desktop\Obfuscator\Obfuscator\obj\Release\Obfuscator.exe
+C:\Users\soetag1\OneDrive - Orange County Supervisor of Elections\Desktop\Obfuscator\Obfuscator\obj\Release\Obfuscator.pdb
